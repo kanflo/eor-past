@@ -2,14 +2,11 @@
 
 This module adds support for storing parameters in the internal flash of the ESP8266.
 
-# This is unstable work in progress
-
 ###Usage
 
 ```
 cd esp-open-rtos/extras
-git clone https://github.com/kanflo/eor-past.git
-mv eor-past past
+git clone https://github.com/kanflo/eor-past.git past
 ```
 
 Include the driver in your project makefile as any other extra component:
